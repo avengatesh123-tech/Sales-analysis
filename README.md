@@ -1,4 +1,3 @@
-#sales analysis
 📊 Overview
 
 The Electronic Product Sales Analysis Dashboard provides a comprehensive, data-driven overview of sales performance for electronic products across different brands, regions, genders, and shipping methods.
@@ -65,33 +64,6 @@ Analysis Type	Descriptive Analytics & KPI Tracking
 ├── 🖼️ Screenshots/              # Dashboard preview images
 ├── 📄 README.md                 # Documentation
 └── 📑 Report.pdf (optional)     # Business summary or insight report
-
-⚙️ How to Use
-
-Clone the repository
-
-git clone https://github.com/<your-username>/Electronic-Product-Sales-Analysis.git
-cd Electronic-Product-Sales-Analysis
-
-
-Open the dashboard
-
-Power BI: Dashboard/Electronic_Sales_Analysis.pbix
-
-Tableau: Dashboard/Electronic_Sales_Analysis.twbx
-
-Load the dataset
-
-Located in the Dataset/ folder
-
-Refresh to auto-populate visuals
-
-Explore insights
-
-Use slicers for Brand, Product, and Region
-
-Hover over visuals for detailed breakdowns
-
 📊 Use Cases
 
 ✅ Business sales review meetings
